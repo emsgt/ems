@@ -37,7 +37,7 @@ return [
     */
 
     'locales' => [
-        'es'          => ['name' => 'Spanish',                'script' => 'Latn', 'native' => 'español', 'flag_code' => '' ],
+        'es' => ['name' => 'Spanish',                'script' => 'Latn', 'native' => 'español', 'flag_code' => '' ],
         'en' => ['name' => 'English',                'script' => 'Latn', 'native' => 'English', 'flag_code' => 'us'],
 
         //'ar' => ['name' => 'Arabic',                 'script' => 'Arab', 'native' => 'العربية', 'flag_code' => 'sa'],
